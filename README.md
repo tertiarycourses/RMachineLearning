@@ -1,5 +1,5 @@
 # R Machine Learning Training
-## by [Tertiary Infotech Pte. Ltd] (https://www.tertiarycourses.com.sg/)
+## by [Tertiary Infotech Pte. Ltd](https://www.tertiarycourses.com.sg/)
 
 These are the exercise files used for [R Machine Learning Training](https://www.tertiarycourses.com.sg/r-machine-learning-training.html) course. 
 
